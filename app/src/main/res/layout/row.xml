@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+
+    <TextView
+        android:text="Sno"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#f00"
+        android:layout_marginTop="10dp"
+        android:id="@+id/textView1" />
+
+    <TextView
+        android:text="name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:textSize="20sp"
+        android:textColor="#f00"
+        android:layout_marginLeft="97dp"
+        android:id="@+id/textView2" />
+
+    <TextView
+        android:text="Email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="53dp"
+        android:textSize="20sp"
+        android:textColor="#f00"
+        android:layout_marginLeft="97dp"
+        android:id="@+id/textView3" />
+
+    <TextView
+        android:text="Mobile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="98dp"
+        android:textSize="20sp"
+        android:textColor="#f00"
+        android:layout_marginLeft="97dp"
+        android:id="@+id/textView4" />
+
+
+</RelativeLayout>
